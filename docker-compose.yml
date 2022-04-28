@@ -10,7 +10,6 @@ services:
       - 80:8080
     volumes:
       - './:/src'
-      - './.vuepress/config.js:/src/node_modules/.vuepress/config.js'
     networks:
       - cpit-network
     command: yarn docs:dev
