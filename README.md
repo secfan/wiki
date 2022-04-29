@@ -1,5 +1,5 @@
 # 简介
-基于VuePress([link](https://vuepress.vuejs.org/zh/guide/getting-started.html))构建
+基于([VuePress](https://vuepress.vuejs.org/zh/guide/getting-started.html))构建
 
 # 使用
 ## 启动环境
