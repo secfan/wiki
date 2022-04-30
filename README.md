@@ -4,7 +4,7 @@
 # 使用
 ## 启动环境
 1. 执行dc up -d --build，启动知识库（热部署模式）
-2. 执行set-crontab.sh（自动pull）
+2. 执行crontab-init.sh，设定定时任务，自动git pull
 
 ## 内容贡献
 1. local update -> docs/*.md
