@@ -1,2 +1,5 @@
 .git
-#node_modules
+# 此处双刃剑，对于docker build .影响是：
+#    开启则重新下载本地依赖
+#    关闭则拷贝本地依赖到docker daemon context
+node_modules
