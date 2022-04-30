@@ -7,8 +7,8 @@
 2. 执行crontab-init.sh，设定定时任务，自动git pull
 
 ## 内容贡献
-1. local update -> docs/*.md
+1. git clone & local update -> docs/*.md
 2. local push
 3. github -> pr
 4. gtihub -> merge
-5. prd -> auto pull <- set-crontab.sh
+5. prd -> auto git pull 网站自动更新
