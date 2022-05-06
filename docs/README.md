@@ -21,6 +21,8 @@ footer: MIT Licensed | Copyright © CPIT.ME
 ## 安全知识
 - Subject1 
 - Subject2
+- Subject3 
+- Subject4
 
 ## 在线工具
 - [文本查重](http://cc.cpit.me)
