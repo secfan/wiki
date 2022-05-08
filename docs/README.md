@@ -19,8 +19,8 @@ footer: MIT Licensed | Copyright © CPIT.ME
 - [ossec/ 开源安全治理](https://github.com/secfan/ossec)
 
 ## 安全知识
-- Subject1 
-- Subject2
+- [fsnotify](https://mp.weixin.qq.com/s/0GcjkYEiO6A7Wah3fuhUgA)
+- [go](https://pkg.go.dev)
 - Subject3 
 - Subject4
 
