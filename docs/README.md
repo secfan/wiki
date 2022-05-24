@@ -21,14 +21,12 @@ footer: MIT Licensed | Copyright © CPIT.ME
 ## 安全知识
 - [fsnotify](https://mp.weixin.qq.com/s/0GcjkYEiO6A7Wah3fuhUgA)
 - [go](https://pkg.go.dev)
-- [NVD](https://nvd.nist.gov) 
-
-- [NIST](https://csrc.nist.gov/publications)
+- [NIST NVD](https://nvd.nist.gov)
+- [NIST CSRC](https://csrc.nist.gov/publications)
 - [CISA](https://www.cisa.gov/cybersecurity)
 - [信通院](http://www.caict.ac.cn/kxyj)
 - [信安标委](https://www.tc260.org.cn)
-- [信安标委标准列表](https://www.tc260.org.cn/front/bzzqyjList.html?postType=&start=300&length=395)
+- [信安标委标准列表](https://www.tc260.org.cn/front/bzzqyjList.html?postType=&start=1&length=395)
 - [isc2022](https://isc.360.com/2020/polymerization.html?id=105#/)
-
 ## 在线工具
 - [文本查重](http://cc.cpit.me)
