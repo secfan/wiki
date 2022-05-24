@@ -27,6 +27,6 @@ footer: MIT Licensed | Copyright © CPIT.ME
 - [信通院](http://www.caict.ac.cn/kxyj)
 - [信安标委](https://www.tc260.org.cn)
 - [信安标委标准列表](https://www.tc260.org.cn/front/bzzqyjList.html?postType=&start=1&length=395)
-- [isc2022](https://isc.360.com/2020/polymerization.html?id=105#/)
+- [ISC2022](https://isc.360.com/2020/polymerization.html?id=105#/)
 ## 在线工具
 - [文本查重](http://cc.cpit.me)
