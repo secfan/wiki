@@ -20,8 +20,13 @@ footer: MIT Licensed | Copyright © CPIT.ME
 
 ## 安全知识
 - [开发-fsnotify](https://mp.weixin.qq.com/s/0GcjkYEiO6A7Wah3fuhUgA)
+- [开发-electronjs](https://www.electronjs.org/zh/docs/latest/tutorial/examples)
+- [开发-stackblitz](https://stackblitz.com/)
+- [开发-element plus](https://element-plus.gitee.io/zh-CN/
 - [开发-WatchService](https://www.baeldung.com/java-nio2-watchservice)
-- [go](https://pkg.go.dev)
+- [开发-Go API](https://pkg.go.dev)
+- [漏洞-OSV](https://osv.dev/)
+- [破解-Atlassian](https://zhile.io/2018/12/20/atlassian-license-crack.html)
 - [NIST NVD](https://nvd.nist.gov)
 - [NIST CSRC](https://csrc.nist.gov/publications)
 - [CISA](https://www.cisa.gov/cybersecurity)
@@ -31,6 +36,9 @@ footer: MIT Licensed | Copyright © CPIT.ME
 - [ISC2022](https://isc.360.com/2020/polymerization.html?id=105#/)
 - [学术-网络安全顶会论文](https://www.s3.eurecom.fr/~balzarot/notes/top4_2018/)
 - [学术-NYU SSL Projects](https://ssl.engineering.nyu.edu/projects)
-- [CNCF-cosign](https://github.com/sigstore/cosign)
+- [云原生-API安全星澜科技](https://www.cdxy.me/)
+- [云原生-T WiKi](https://wiki.teamssix.com/)
+- [云原生-cosign](https://github.com/sigstore/cosign)
+- [密码-PrimeKey](https://doc.primekey.com/)
 ## 在线工具
 - [文本查重](http://cc.cpit.me)
