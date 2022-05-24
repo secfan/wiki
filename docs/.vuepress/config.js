@@ -15,8 +15,8 @@ module.exports = {
     repo: 'secfan/wiki',
     repoLabel: '源代码',
     docsDir: 'docs',
-    docsBranch: 'master',
+    docsBranch: 'main',
     editLinks: true,
-    editLinkText: '众人拾柴！'
+    editLinkText: '编辑当前页面'
   }
 }
