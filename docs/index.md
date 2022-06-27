@@ -33,9 +33,9 @@ footer: MIT Licensed | Copyright © CPIT.ME
 - [US DHS NIST CSRC](https://csrc.nist.gov/publications)
 - [US DHS CISA](https://www.cisa.gov/cybersecurity)
 - [US DHS MITRE Secrurity](https://www.mitre.org/capabilities/cybersecurity/overview?category=all)
-- [NSA Archive By FAS](https://irp.fas.org/nsa/)
+- [US NSA Archive By FAS](https://irp.fas.org/nsa/)
 - [ISACA](https://www.isaca.org/resources/news-and-trends#sort=relevancy)
-- [US CSOOnlie](https://www.csoonline.com/)
+- [CSOOnlie](https://www.csoonline.com/)
 - [信通院](http://www.caict.ac.cn/kxyj)
 - [信安标委](https://www.tc260.org.cn)
 - [信安标委标准列表](https://www.tc260.org.cn/front/bzzqyjList.html?postType=&start=1&length=395)
@@ -49,3 +49,4 @@ footer: MIT Licensed | Copyright © CPIT.ME
 - [密码-PrimeKey](https://doc.primekey.com/)
 ## 在线工具
 - [文本查重](http://cc.cpit.me)
+- [Nginx配置生成](https://www.digitalocean.com/community/tools/nginx)
