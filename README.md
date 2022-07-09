@@ -3,8 +3,9 @@
 
 # 使用
 ## 启动环境
-1. 执行dc up -d --build，启动知识库（热部署模式）
-2. 执行crontab-init.sh，设定定时任务，自动git pull
+1. 创建网络 docker network create cpit-network
+2. 执行docker-compose up -d --build，启动知识库（热部署模式）
+3. 执行crontab-init.sh，设定定时任务，自动git pull
 
 ## 内容贡献
 1. git clone & local update -> docs/*.md
